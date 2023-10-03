@@ -1,0 +1,17 @@
+.container {
+    /* parent container */
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; */
+    /* max-width: 450px; */
+    display: grid;
+}
+
+
+.box {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border: 1px black dotted;
+}
